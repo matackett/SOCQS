@@ -1,0 +1,23 @@
+---
+title: "Student Sense of Community in Quantitative Sciences (SOCQS)"
+---
+
+# About SOCQS
+
+This is a paragraph about SOCQS
+
+# Principal Investigators
+
+![](images/maria.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Dr. Maria Tackett" width="200"}
+
+[**Dr. Maria Tackett**](https://mariatackett.net) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students' sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.
+
+<br>
+
+![](images/shira.jpeg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Dr. Mine Çetinkaya-Rundel" width="200"}
+
+[**Dr. Shira Viel**](https://services.math.duke.edu/~viel/index.html) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students' sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.
+
+<hr>
+
+This project is funded by the [Carry the Innovation Forward Grant](https://learninginnovation.duke.edu/carry-the-innovation-forward/) from [Duke Learning Innovation](https://learninginnovation.duke.edu/).

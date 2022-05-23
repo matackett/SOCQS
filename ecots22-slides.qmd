@@ -1,0 +1,14 @@
+---
+title: "Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses"
+subtitle: "eCOTS 2022"
+---
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcTqrFJBXXhWJrbs6kQopMrGRKvEiGbZMigiLBwM3UfnjVWz6yJ_VN4Bb3M7-B-zGwoBKxPC18kype/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+## Abstract 
+
+To increase diversity and representation in statistics and in STEM at large, it is essential that students can envision themselves as contributing members of these fields. Therefore, it is crucial to understand the student experience in introductory classes, as it is there that students first assess whether they can successfully pursue a particular major or career. In this session, we will present results from research on undergraduate students’ sense of community and belonging in in-person, hybrid, and online introductory math and statistics courses. We will provide a brief overview of the project that started in Fall 2020, describe the survey instrument and focus group protocol used for data collection, and present results including classroom practices associated with a higher sense of community. Participants will have the opportunity to share their experiences and exchange ideas about what has worked to foster community and belonging in their own courses.
+
+Link to [eCOTS 2022 program](https://causeweb.org/cause/ecots/ecots22/program/breakout/10).
