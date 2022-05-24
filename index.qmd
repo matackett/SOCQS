@@ -2,22 +2,16 @@
 title: "Student Sense of Community in Quantitative Sciences (SOCQS)"
 ---
 
-# About SOCQS
+To increase diversity and representation in math and statistics and in STEM at large, it is essential that undergraduate students be able to envision themselves as contributing members of these fields. Students' sense of belonging is a critical factor in their persistence, and more broadly their sense of community is correlated with academic motivation and perceived learning. 
 
-This is a paragraph about SOCQS
+The SOCQS project, begun in Fall 2020, is a mixed-methods investigation of classroom community in introductory undergraduate mathematics and statistics courses. It is crucial to understand the student experience in this setting, as it is there that many students first assess whether they can successfully pursue a particular STEM major or career. The project's goals are threefold:
 
-# Principal Investigators
+1.  To identify pedagogies, policies, and structures in introductory quantitative science courses which correlate with an increased sense of classroom community;  
 
-![](images/maria.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Dr. Maria Tackett" width="200"}
+2.  To better understand how students in introductory quantitative science courses perceive and experience classroom community; and  
 
-[**Dr. Maria Tackett**](https://mariatackett.net) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students' sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.
+3.  To analyze how these perceptions and experiences differ across a diverse population, including along demographic axes and different learning modalities and preferences. 
 
-<br>
-
-![](images/shira.jpeg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Dr. Mine Çetinkaya-Rundel" width="200"}
-
-[**Dr. Shira Viel**](https://services.math.duke.edu/~viel/index.html) is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students' sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.
-
-<hr>
+------------------------------------------------------------------------
 
 This project is funded by the [Carry the Innovation Forward Grant](https://learninginnovation.duke.edu/carry-the-innovation-forward/) from [Duke Learning Innovation](https://learninginnovation.duke.edu/).

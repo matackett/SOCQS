@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Student Sense of Community in Quantitative Sciences (SOCQS)"
+  title: "SOCQS"
   navbar:
     background: primary
     right:
       - href: index.qmd
         text: Home
+      - href: team
+        text: "Meet the team"
       - href: ecots22-slides.qmd
         text: "eCOTS 2022 slides"
       - href: focus-groups

@@ -3,9 +3,14 @@ title: "Undergraduate Students’ Sense of Community in Introductory Math and St
 subtitle: "eCOTS 2022"
 ---
 
+<div>
 ```{=html}
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcTqrFJBXXhWJrbs6kQopMrGRKvEiGbZMigiLBwM3UfnjVWz6yJ_VN4Bb3M7-B-zGwoBKxPC18kype/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe  src="https://docs.google.com/presentation/d/e/2PACX-1vRcTqrFJBXXhWJrbs6kQopMrGRKvEiGbZMigiLBwM3UfnjVWz6yJ_VN4Bb3M7-B-zGwoBKxPC18kype/embed?start=false&loop=false&delayms=3000" width="960" height="569"  frameborder="0" allowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
+
+</div>
+
+[Click here](https://docs.google.com/presentation/d/1XiDjMJ_-stqelqqjrD4qYaYN_n30sW8f_PgaoOBY9UE/edit?usp=sharing) for link to slides. 
 
 ## Abstract 
 

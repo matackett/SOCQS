@@ -7,6 +7,13 @@
     "text": "In particular, the more coding references made to that theme the larger the rectangle. Click on a large rectangle (e.g., “Relationship to Peers”) to drill into it, narrowing your frame of reference to that theme and its subthemes. Subthemes which can be drilled into further are indicated with an asterisk (e.g., “Relationship to Peers|Personal Identity*). After drilling down, click on the up arrow (&#8593) in the upper-right-corner of the map to return up a level.\n\nThe interactive tree map was developed by Sarwari Das as part of the SOCQS project led by Maria Tackett and Shira Viel. This research was conducted under Duke University Campus IRB(Protocol #2021-0050) and supported by Duke Learning Innovation’s Carry the Innovation Forward program. Data were gathered from a series of 5 focus groups conducted with a total of 12 students. Transcripts were coded in NVivo.\nThe authors would like to thank Duke Learning Innovation, particularly Kim Manturuk, for their support facilitating the focus groups and preparing the data, as well as former Research Assistant Margaret Poulos, who developed the focus group protocol."
   },
   {
+    "objectID": "ecots22-slides.html",
+    "href": "ecots22-slides.html",
+    "title": "Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses",
+    "section": "",
+    "text": "Click here for link to slides."
+  },
+  {
     "objectID": "ecots22-slides.html#abstract",
     "href": "ecots22-slides.html#abstract",
     "title": "Undergraduate Students’ Sense of Community in Introductory Math and Statistics Courses",
@@ -18,6 +25,13 @@
     "href": "index.html",
     "title": "Student Sense of Community in Quantitative Sciences (SOCQS)",
     "section": "",
-    "text": "Principal Investigators\n\nDr. Maria Tackett is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students’ sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.\n\n\nDr. Shira Viel is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Her current work focuses on understanding how active learning strategies can be used to promote engagement and student motivation in undergraduate statistics courses. She also studies how classroom practices in introductory math and statistics courses impact students’ sense of community, self-efficacy, and learning outcomes. Maria is an RStudio certified trainer and is actively involved in the R and statistics education communities.\n\nThis project is funded by the Carry the Innovation Forward Grant from Duke Learning Innovation."
+    "text": "The SOCQS project, begun in Fall 2020, is a mixed-methods investigation of classroom community in introductory undergraduate mathematics and statistics courses. It is crucial to understand the student experience in this setting, as it is there that many students first assess whether they can successfully pursue a particular STEM major or career. The project’s goals are threefold:\n\nTo identify pedagogies, policies, and structures in introductory quantitative science courses which correlate with an increased sense of classroom community;  \nTo better understand how students in introductory quantitative science courses perceive and experience classroom community; and  \nTo analyze how these perceptions and experiences differ across a diverse population, including along demographic axes and different learning modalities and preferences. \n\n\nThis project is funded by the Carry the Innovation Forward Grant from Duke Learning Innovation."
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "Research Assistants\n\nSarwari Das is a master’s candidate in Interdisciplinary Data Science in the Graduate School at Duke University. Her research work focuses on the intersection of behavior science and technology.\n\n\n\nPrevious Members\n\nJoe Choo (Spring 2022)\nMaggie Poulos (Summer - Fall 2021)"
   }
 ]
