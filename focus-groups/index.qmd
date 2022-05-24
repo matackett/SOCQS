@@ -8,7 +8,7 @@ undergraduate students enrolled in introductory math and statistics courses at a
 In particular, the more coding references made to that theme the larger the rectangle. Click on a large rectangle (e.g., "Relationship to Peers") to drill into it, narrowing your frame of reference to that theme and its subthemes. Subthemes which can be drilled into further are indicated with an asterisk (e.g., "Relationship to Peers|Personal Identity*). After drilling down, click on the up arrow (&#8593) in the upper-right-corner of the map to return up a level. 
 
 ```{=html}
-<iframe src="focus-group-interactive.html" frameborder="0" width="960" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/9783492"><script src="https://public.flourish.studio/resources/embed.js" frameborder="0" width="960" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></script></div>
 ```
 
 The interactive tree map was developed by [Sarwari Das](https://datascience.duke.edu/people/sarwari-das/) as part of the SOCQS project led by [Maria Tackett](https://mariatackett.net) and [Shira Viel](https://services.math.duke.edu/~viel/index.html). This research was conducted under <a href="">[Duke University Campus IRB](https://campusirb.duke.edu/campus-institutional-review-board)(Protocol #2021-0050) and supported by [Duke Learning Innovation's Carry the Innovation Forward](https://learninginnovation.duke.edu/carry-the-innovation-forward/) program. Data were gathered from a series of 5 focus groups conducted with a total of 12 students. Transcripts were coded in NVivo.
