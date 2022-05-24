@@ -12,7 +12,7 @@ website:
       - href: ecots22-slides.qmd
         text: "eCOTS 2022 slides"
       - href: focus-groups
-        text: "Focus group themes"
+        text: "Pilot focus groups"
 
 format:
   html:
