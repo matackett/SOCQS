@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Student Sense of Community in Quantitative Sciences (SOCQS)"
@@ -15,9 +16,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [cosmo, styles.scss]
     toc: true
+    code-copy: true
+    code-overflow: wrap
 
 
 
