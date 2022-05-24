@@ -7,8 +7,6 @@ website:
   navbar:
     background: primary
     right:
-      - href: index.qmd
-        text: Home
       - href: team
         text: "Meet the team"
       - href: ecots22-slides.qmd
