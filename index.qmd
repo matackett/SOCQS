@@ -6,11 +6,13 @@ To increase diversity and representation in math and statistics and in STEM at l
 
 The SOCQS project, begun in Fall 2020, is a mixed-methods investigation of classroom community in introductory undergraduate mathematics and statistics courses. It is crucial to understand the student experience in this setting, as it is there that many students first assess whether they can successfully pursue a particular STEM major or career. The project's goals are threefold:
 
-1.  To identify pedagogies, policies, and structures in introductory quantitative science courses which correlate with an increased sense of classroom community;  
 
-2.  To better understand how students in introductory quantitative science courses perceive and experience classroom community; and  
+1. To better understand how students in introductory quantitative science courses perceive and experience classroom community; 
 
-3.  To analyze how these perceptions and experiences differ across a diverse population, including along demographic axes and different learning modalities and preferences. 
+2. To analyze how these perceptions and experiences differ across a diverse population, including along demographic axes and different learning modalities and preferences; and
+
+3. To identify pedagogies, policies, and structures in introductory quantitative science courses which correlate with an increased sense of classroom community. 
+
 
 ------------------------------------------------------------------------
 
